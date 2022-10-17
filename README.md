@@ -15,6 +15,7 @@ Hi! I'm Bishwajit Adhikary, a student currently living in Rangpur, Bangladesh.
   <img src="https://img.shields.io/badge/-JAVASCRIPT-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
   <img src="https://img.shields.io/badge/-JQUERY-0769ad?style=for-the-badge&logo=jquery&logoColor=0769ad&labelColor=282828">
   <br>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=282828">
   <img src="https://img.shields.io/badge/-LARAVEL-fb503b?style=for-the-badge&logo=laravel&logoColor=fb503b&labelColor=282828">
 </div>
