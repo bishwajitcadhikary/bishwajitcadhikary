@@ -30,10 +30,10 @@ class Car {
 }
 
 // create an object
-$Lightning = new Car();
+$lightning = new Car();
 
 // show object properties
-echo $Lightning->model;
+echo $lightning->model;
 ?>
 ```
 
