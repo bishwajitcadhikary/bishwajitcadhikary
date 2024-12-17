@@ -2,21 +2,14 @@
   <b>Bishwajit Adhikary</b>
 </h1>
 
-Hi! I'm Bishwajit Adhikary, a student currently living in Rangpur, Bangladesh.
-
+Hi! I’m Bishwajit, a passionate software developer with 4+ years of experience specializing in Laravel. I currently work at KinDigi, where I focus on building scalable and efficient web applications. My goal is to craft clean, maintainable code and deliver robust solutions for complex problems.
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=e34c26&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=282828">
-  <img src="https://img.shields.io/badge/-BOOTSTRAP-563d7c?style=for-the-badge&logo=bootstrap&logoColor=563d7c&labelColor=282828">
-  <img src="https://img.shields.io/badge/-TAILWIND%20CSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JAVASCRIPT-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JQUERY-0769ad?style=for-the-badge&logo=jquery&logoColor=0769ad&labelColor=282828">
-  <br>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=282828">
   <img src="https://img.shields.io/badge/-LARAVEL-fb503b?style=for-the-badge&logo=laravel&logoColor=fb503b&labelColor=282828">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=%2302569B&labelColor=%23ced3db&color=%2302569B">
 </p>
 
 ```php
@@ -39,15 +32,15 @@ echo $lightning->model;
 
 <br/>
 <p align="center">
-  <a href="https://github.com/bishwajitcadhikary">
-    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishwajitcadhikary&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" />
+  <a href="https://bishwajitadhikary.com" target="_blank">
     <img width="34%" src="https://github-readme-stats.vercel.app/api?username=bishwajitcadhikary&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="36%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwajitcadhikary&theme=gruvbox&hide_border=true" />
+    <img width="26%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishwajitcadhikary&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://bishwajitadhikary.com" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=bishwajitcadhikary&theme=gruvbox&hide_border=true"/>
   </a>
 </p>
